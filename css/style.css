@@ -1,0 +1,117 @@
+body{
+	margin: 0px;
+	color: #a7c5eb;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+h1{
+	color: #66bfbf;
+	font-size: 60px;
+	margin: 50px auto;
+   font-family: 'Montserrat', sans-serif;
+}
+h2{
+	color: #66bfbf;
+	font-size: 30px;
+	font-weight: normal;
+	font-family: 'Space Grotesk', sans-serif;
+	padding-bottom: 10px;
+}
+#top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 40px;
+}
+#bottom-cloud{
+	position: absolute;
+	left: 250px;
+
+}
+#top-container{
+	position: relative;
+	background-color: #e4f9f5;
+	padding-top: 100px;
+}
+#middle-container{
+	margin: 100px 0;
+}
+#pro{
+	text-decoration: underline;
+}
+#intro{
+	width: 30%;
+	margin: auto;
+}
+
+hr{
+	border: dotted #66bfbf 6px;
+	border-bottom: none;
+	width: 4%;
+	margin: 100px auto;
+}
+a{
+	color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+	color: black;
+}
+#bottom-container{
+	background-color: #66bfbf;
+	padding:50px 0 20px;
+}
+#skills-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+#contact-massege{
+	width: 40%;
+	margin: 40px auto 60px;
+}
+h3{
+	color: #11999e;
+	 font-family: 'Montserrat', sans-serif;
+}
+p{
+	line-height: 2;
+	color:black;
+}
+#skills-row {
+	width: 35%;
+	margin: 100px auto 100px auto;
+	text-align: center;
+}
+#code-img {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+#code-img-description {
+	clear: left;
+}
+#chillies-img {
+	float: right;
+	margin-left: 30px;
+	width: 25%;
+}
+#chillies-skills-description {
+	clear: left;
+	margin-top: 100px;
+}
+#desigen {
+	float: left;
+}
+#btn {
+	background:#66bfbf;
+	height: 100px;
+	width: 100px;
+	padding: 10px 20px;
+	border-radius: 5%;
+}
+#copyright {
+	color: white;
+
+}
